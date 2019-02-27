@@ -16,7 +16,7 @@
     "url": "https://github.com/weijia0208/Ele-Book/issues"
   },
   "homepage": "https://github.com/weijia0208/Ele-Book#readme",
-  "dependencies": {
+  "devDependencies": {
     "gitbook-cli": "^2.3.2"
   }
 }
